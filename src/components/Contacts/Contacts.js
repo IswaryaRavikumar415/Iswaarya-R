@@ -228,16 +228,7 @@ function Contacts() {
                         </div>
 
                         <div className='socialmedia-icons'>
-                            {socialsData.twitter && (
-                                <a
-                                    href={socialsData.twitter}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaTwitter aria-label='Twitter' />
-                                </a>
-                            )}
+                            
                             {socialsData.github && (
                                 <a
                                     href={socialsData.github}
@@ -266,6 +257,17 @@ function Contacts() {
                                     className={classes.socialIcon}
                                 >
                                     <FaInstagram aria-label='Instagram' />
+                                </a>
+                            )}
+
+                                {socialsData.twitter && (
+                                    <a
+                                    href={socialsData.twitter}
+                                    target='_blank'
+                                    rel='noreferrer'
+                                    className={classes.socialIcon}
+                                >
+                                    <FaTwitter aria-label='Twitter' />
                                 </a>
                             )}
                             {/* {socialsData.medium && (

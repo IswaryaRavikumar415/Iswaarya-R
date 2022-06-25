@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'ajithkumargunasekar1906@gmail.com',
-    phone: '+91 9677908652',
-    address: '23, Gopal nagar 1st Street, Velliyangadu, Tirupur - 641604 ',
+    email: 'iswaryaravikumar415@gmail.com',
+    phone: '+91 6382879062',
+    address: '39 Bungalow street, Odakkadu, Tirupur-2',
 
     sheetAPI: ''
 }

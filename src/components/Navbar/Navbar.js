@@ -231,7 +231,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#blog'
+                                to='/#projects'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -241,7 +241,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Blog
+                                        Projects
                                     </span>
                                 </div>
                             </NavLink>

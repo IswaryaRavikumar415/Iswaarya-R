@@ -115,6 +115,8 @@
         width: 100%;
         padding: 1.5rem;
         margin-bottom: 1.5rem;
+
+        height: 190px;
     }
 }
 
@@ -130,7 +132,7 @@
     .education-card {
         padding: 1rem;
         margin-bottom: 1.5rem;
-        height: 130px;
+        height: 140px;
     }
     .educard-img {
         border-radius: 50%;
@@ -169,6 +171,11 @@
   
 @media only screen and (min-device-width: 320px) and (max-device-width: 
   480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) {
+    .education-card {
+       
+        height: 190px;
+    }
+
 
 }
 

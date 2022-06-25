@@ -18,8 +18,8 @@ function Main() {
             <Skills />
             <Experience />
             <Projects />
-            <Achievement />
-            <Blog />
+            {/* <Achievement /> */}
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>

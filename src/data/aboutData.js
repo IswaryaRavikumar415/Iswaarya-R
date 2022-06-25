@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Ajithkumar G. I'm a web designer and developer.",
-    description2: "During the day I work as a Front-end developer intern at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at fullstack development . I love to learn and explore new arenas.",
+    description1: "My name is Iswarya Ravikumar from cotton city Tirupur. I am a UX UI Designer and Frontend Developer.",
+    description2: " I have completed MCA at RVS College of Arts and science, Sullur. Also while doing MCA, I completed my internship. During internship I worked in UX UI Designing and Frontend Development part of live projects for my college. Right now I'm looking for a carrier opportunity to fully utilize my skills. I love to learn and explore new areas.",
     image: 2
 }

@@ -1,9 +1,11 @@
-import resume from '../assets/pdf/Ajithkumar.pdf'
+import resume from '../assets/pdf/Iswarya Ravikumar MCA.pdf';
+//import avatar from '../../public/img1.jpeg';
 
 export const headerData = {
-    name: 'Ajithkumar G',
-    title: "Web Developer",
-    desciption:"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” ",
-    image: '/image.jpg',
+    name: 'Iswarya R',
+    title: "UX UI Designer & Frontend Developer",
+    desciption:"Looking forward to work for my dream job which provides chance to improve my skills and training. ",
+   // descriptions:"“Make it simple but signiificant...”",
+    image: '/img3.jpeg',
     resumePdf: resume
 }

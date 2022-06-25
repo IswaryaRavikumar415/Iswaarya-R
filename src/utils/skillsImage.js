@@ -58,7 +58,7 @@ import strapi from '../assets/svg/skills/strapi.svg'
 import tensorflow from '../assets/svg/skills/tensorflow.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
-
+import coreldraw from '../assets/svg/skills/coreldraw.png'
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
 import fastify from '../assets/svg/skills/fastify.svg'
@@ -105,6 +105,14 @@ export const skillsImage = (skill) => {
             return nuxtJS;
         case 'react':
             return react;
+
+
+            case 'reactnative':
+            return react;
+            case 'coreldraw':
+            return coreldraw;
+
+
         case 'svelte':
             return svelte;
         case 'typescript':

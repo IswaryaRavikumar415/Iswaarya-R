@@ -1,12 +1,17 @@
  export const skillsData = [
     'HTML',
-    'Git',
+    'CSS',
+    'Javascript',
+    'React',
     'Tailwind',
     'Figma',
-    'Javascript',
-    'CSS',
-    'React',
-    'Next JS'
+    'Git',
+    'Next JS',
+    'Adobe XD',
+    'Bootstrap',
+    'Coreldraw',
+    'ReactNative'
+  
     
 ]
 
